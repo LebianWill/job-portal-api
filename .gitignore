@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+log/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MongoDB dump or data folders
+dump/
+data/
+*.local.db
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build files
+dist/
+build/
+
+# Misc
+*.tgz
+*.swp
+
+# Temporary files
+tmp/
+temp/
